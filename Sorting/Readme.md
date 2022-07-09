@@ -9,9 +9,9 @@ Sorting is any process of arranging items systematically, and has two common, ye
 Reference: [Sorting - Wikipedia, The Free Encyclopedia](https://en.wikipedia.org/wiki/Sorting)
 
 ## In General
-The most efficient way to find anything in time, is to keep them at places where they should be in. 
+The most efficient way to find anything in time, is to keep them at places where they should be kept at. 
 
-Sorting is doing exactly this. 
+Sorting techniques are just doing this.
 
 With computers, the same analogy applies. Everything stored digitally is in form of data, or as the word suggets, digitally -> digits -> numbers.
 
