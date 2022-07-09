@@ -6,7 +6,7 @@ Sorting is any process of arranging items systematically, and has two common, ye
 1. ordering: arranging items in a sequence ordered by some criterion;
 2. categorizing: grouping items with similar properties.
 
-Reference: [Sorting - WikipediA, The Free Encyclopedia](https://en.wikipedia.org/wiki/Sorting)
+Reference: [Sorting - Wikipedia, The Free Encyclopedia](https://en.wikipedia.org/wiki/Sorting)
 
 ## In General
 The most efficient way to find anything in time, is to keep them at places where they should be in. 
